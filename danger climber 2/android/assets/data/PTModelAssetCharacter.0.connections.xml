@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>127</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>129</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12407</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>12913</string>
+                    <string>32079</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13758</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>13762</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12407</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>13760</string>
+                    <string>32010</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13405</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>13409</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12407</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>13407</string>
+                    <string>32049</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
